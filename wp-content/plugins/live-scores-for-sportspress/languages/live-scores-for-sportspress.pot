@@ -1,0 +1,1341 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Live Scores for SportsPress\n"
+"POT-Creation-Date: 2019-09-27 11:31+0200\n"
+"PO-Revision-Date: 2019-09-11 00:37+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: live-scores-for-sportspress.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+
+#: includes/abstracts/class-lsfs-integration.php:80
+msgid "Activate this integration"
+msgstr ""
+
+#: includes/abstracts/class-lsfs-integration.php:82
+msgid "Check this option to activate this integration"
+msgstr ""
+
+#: includes/abstracts/class-lsfs-integration.php:121
+#: includes/admin/class-lsfs-admin.php:36
+msgid "Activate"
+msgstr ""
+
+#: includes/abstracts/class-lsfs-integration.php:125
+#: includes/admin/class-lsfs-admin.php:37
+msgid "Deactivate"
+msgstr ""
+
+#: includes/abstracts/class-lsfs-integration.php:131
+msgid "Documentation"
+msgstr ""
+
+#: includes/abstracts/class-lsfs-integration.php:133
+#: includes/admin/views/tabs/general.php:1
+msgid "Settings"
+msgstr ""
+
+#: includes/abstracts/class-lsfs-settings.php:473
+msgid "Add Images"
+msgstr ""
+
+#: includes/abstracts/class-lsfs-settings.php:534
+msgid "Add Image"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:45
+#: includes/admin/class-lsfs-admin-ajax.php:144
+#: includes/admin/class-lsfs-admin-ajax.php:206
+#: includes/admin/class-lsfs-admin-ajax.php:268
+#: includes/admin/class-lsfs-admin-ajax.php:323
+#: includes/admin/class-lsfs-admin-ajax.php:588
+#: includes/admin/class-lsfs-admin-ajax.php:740
+#: includes/class-lsfs-live-ajax.php:389 includes/class-lsfs-live-ajax.php:501
+#: includes/class-lsfs-live-ajax.php:600 includes/class-lsfs-live-ajax.php:662
+#: includes/class-lsfs-live-ajax.php:724
+#: premium/admin/class-lsfs-pro-admin-ajax.php:35
+msgid "No Event ID"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:53
+#: includes/admin/class-lsfs-admin-ajax.php:152
+#: includes/admin/class-lsfs-admin-ajax.php:214
+#: includes/admin/class-lsfs-admin-ajax.php:276
+#: includes/admin/class-lsfs-admin-ajax.php:331
+#: includes/class-lsfs-live-ajax.php:397 includes/class-lsfs-live-ajax.php:509
+#: includes/class-lsfs-live-ajax.php:608 includes/class-lsfs-live-ajax.php:670
+#: includes/class-lsfs-live-ajax.php:732
+msgid "No Config ID"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:77
+#: includes/admin/class-lsfs-admin-ajax.php:250
+#: includes/class-lsfs-live-ajax.php:533 includes/class-lsfs-live-ajax.php:644
+#: includes/class-lsfs-live-event.php:301
+#, php-format
+msgid "%s Started"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:79
+#: includes/admin/class-lsfs-admin-ajax.php:248
+#: includes/class-lsfs-live-ajax.php:535 includes/class-lsfs-live-ajax.php:642
+#: includes/class-lsfs-live-event.php:319
+#, php-format
+msgid "%s Ended"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:120
+#: includes/class-lsfs-live-ajax.php:576 includes/class-lsfs-live-event.php:214
+msgid "Live Started"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:124
+#: includes/admin/class-lsfs-admin-ajax.php:302
+#: includes/class-lsfs-live-ajax.php:580 includes/class-lsfs-live-ajax.php:758
+msgid "Something went wrong while updating event log"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:174
+#: includes/class-lsfs-live-ajax.php:692
+msgid "Minutes Updated"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:178
+#: includes/class-lsfs-live-ajax.php:696
+msgid "No Minutes Saved"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:189
+#: includes/class-lsfs-live-ajax.php:707
+msgid "Minutes Corrected"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:290
+#: includes/class-lsfs-live-ajax.php:746 timer.php:218 timer.php:362
+#: timer.php:408
+msgid "Ended"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:298
+#: includes/class-lsfs-live-ajax.php:754 includes/class-lsfs-live-event.php:221
+msgid "Live Ended"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:336
+#: includes/class-lsfs-live-ajax.php:402
+msgid "Action not supported"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:343
+#: includes/class-lsfs-live-ajax.php:409
+msgid "No data to update"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:419
+msgid "Results Updated."
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:442
+#: includes/admin/class-lsfs-admin-ajax.php:490
+msgid "Something went wrong!"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:447
+#: includes/admin/class-lsfs-admin-ajax.php:495
+msgid "No Integration Sent"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:468
+msgid "Activated"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:473
+msgid "Already Activated"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:478
+#: includes/admin/class-lsfs-admin-ajax.php:520
+msgid "Nothing Happened"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:513
+msgid "Deactivated"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:516
+msgid "Not Activated"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:558
+msgid "Live Part could not be created"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:561
+msgid "You have to enter a title for the live part."
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:581
+#: includes/admin/class-lsfs-admin-ajax.php:733
+msgid "No Team ID"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:598
+msgid "Please Select a Player or add a name for a New Player."
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:747
+msgid "No Scorer selected"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-ajax.php:819
+msgid "Scorer Removed"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-events.php:30
+msgid "Today Events"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-menus.php:21
+#: includes/admin/class-lsfs-admin-settings.php:20
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-calendar-details.php:25
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-live-parts-details.php:33
+#: includes/admin/settings/class-lsfs-settings-live.php:25
+#: templates/live-event-results.php:40
+msgid "Live"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-menus.php:22
+msgid "Integrations"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin-menus.php:27
+#: includes/admin/views/html-admin-live-matches.php:43
+msgid "Live Events"
+msgstr ""
+
+#: includes/admin/class-lsfs-admin.php:45
+#: includes/widgets/class-lsfs-widget-event-list.php:18
+msgid "Live Event List"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-calendar-details.php:28
+msgid ""
+"Check this to replace with the live list. Used only on the page not in "
+"shortcode."
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-calendar-shortcode.php:27
+msgid "Live List"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-calendar-shortcode.php:28
+msgid "Live Box Score"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-live-parts-details.php:31
+msgid "Type"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-live-parts-details.php:35
+msgid "Paused Period"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-live-parts-details.php:39
+msgid "Duration (minutes)"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-live-parts-details.php:43
+#: includes/admin/views/html-admin-config.php:32
+msgid "Stoppage Minutes"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-live-parts-details.php:48
+msgid "Text After"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-live-parts-details.php:49
+msgid ""
+"This is the text that will appear instead of minutes after it ends. Or show "
+"current minutes."
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-live-parts-details.php:56
+#: includes/admin/settings/class-lsfs-settings-live.php:118
+#: includes/admin/views/html-admin-config.php:53
+#: includes/admin/views/html-admin-config.php:85
+#: includes/class-lsfs-live-event.php:395
+msgid "Minutes"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-sp-event-scorers.php:25
+msgid ""
+"This will also update the box score and event results for you. Refresh to "
+"see the change."
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-sp-event-scorers.php:46
+msgid "Create New Player"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-sp-event-scorers.php:57
+msgid "Insert new Player Name"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-sp-event-scorers.php:58
+msgid "Enter Points"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-sp-event-scorers.php:59
+msgid "Enter Minute"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-sp-event-scorers.php:61
+msgid "Submit Scorer"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-sp-event-scorers.php:68
+msgid "Scorer"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-sp-event-scorers.php:71
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:119
+#: templates/live-commentary__premium_only.php:171
+msgid "Minute"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-lsfs-meta-box-sp-event-scorers.php:111
+msgid "No Teams Selected. Please add Teams to this Match."
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:45
+msgid "General"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:51
+msgid "Refresh Rate"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:52
+msgid "Set how many seconds will pass until the results get updated."
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:66
+msgid "Event Options"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:72
+msgid "Live Status"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:73
+msgid "Show the status such as minutes, half time etc. next to live results"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:86
+msgid "League Tables"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:92
+msgid "Enable Live Tables"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:93
+msgid "If checked, each league table will try to perform live updates."
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:106
+msgid "Scorer Options (Front)"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:112
+msgid "Score Information"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:113
+msgid ""
+"Which information should you display for scorers. Usually, for soccer is "
+"minutes and for basketball is points."
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:119
+msgid "Points"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:123
+msgid "Scorer Number"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:124
+msgid "Show scorer number alongside name"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:164
+#: includes/admin/settings/class-lsfs-settings-live.php:166
+msgid "Team"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:172
+#: includes/admin/settings/class-lsfs-settings-live.php:176
+msgid "Delimiter"
+msgstr ""
+
+#: includes/admin/settings/class-lsfs-settings-live.php:181
+msgid "Custom:"
+msgstr ""
+
+#: includes/admin/views/html-admin-config.php:22
+#: includes/class-lsfs-post-types.php:56 includes/class-lsfs-post-types.php:57
+msgid "Live Parts"
+msgstr ""
+
+#: includes/admin/views/html-admin-config.php:23
+msgid ""
+"Start & End are essential parts. Define Halves if any. Used for minutes."
+msgstr ""
+
+#: includes/admin/views/html-admin-config.php:29
+msgid "Order"
+msgstr ""
+
+#: includes/admin/views/html-admin-config.php:30
+#: premium/admin/post-types/class-lsfs-admin-cpt-commentary-icon.php:44
+#: premium/views/html-admin-config-icons.php:28
+msgid "Name"
+msgstr ""
+
+#: includes/admin/views/html-admin-config.php:31
+msgid "Duration (min)"
+msgstr ""
+
+#: includes/admin/views/html-admin-config.php:33
+msgid "Text after End"
+msgstr ""
+
+#: includes/admin/views/html-admin-config.php:52
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/views/html-admin-config.php:52
+msgid "No"
+msgstr ""
+
+#: includes/admin/views/html-admin-config.php:54
+#: includes/admin/views/html-admin-config.php:86
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:160
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:192
+#: premium/views/html-admin-config-icons.php:49
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/views/html-admin-config.php:62
+msgid "No Live Parts Configured"
+msgstr ""
+
+#: includes/admin/views/html-admin-config.php:93
+msgid "No Paused Periods Configured"
+msgstr ""
+
+#: includes/admin/views/html-admin-integrations.php:22
+msgid "Integrations for Live Scores."
+msgstr ""
+
+#: includes/admin/views/html-admin-integrations.php:30
+msgid "Back to Integrations"
+msgstr ""
+
+#: includes/admin/views/html-admin-integrations.php:43
+msgid "Save"
+msgstr ""
+
+#: includes/admin/views/html-admin-live-matches.php:68
+msgid "There are no scheduled Events for Today"
+msgstr ""
+
+#: includes/admin/views/html-admin-page.php:14
+msgid "Live Parts Configured"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/admin/views/html-admin-page.php:22
+msgid "Live Scores for SportsPress"
+msgstr ""
+
+#: includes/admin/views/tabs/about.php:1
+#, php-format
+msgid "Version: %s"
+msgstr ""
+
+#: includes/admin/views/tabs/about.php:3
+msgid ""
+"Live Scores for SportsPress will allow you to create and manage live events "
+"in SportsPress"
+msgstr ""
+
+#: includes/admin/views/tabs/about.php:5
+msgid "Changelog"
+msgstr ""
+
+#: includes/admin/views/tabs/about.php:6
+#, php-format
+msgid "See what has changed with %s"
+msgstr ""
+
+#: includes/admin/views/tabs/about.php:15
+#: includes/integrations/class-lsfs-notifications.php:57
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:2
+msgid ""
+"To set Live Scores for SportsPress, you have to go to SportsPress > Settings "
+"and under the tab Live choose your preferences"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:3
+msgid "Go to Live Settings"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:5
+msgid "Live Scores"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:6
+msgid "Setting a Live Page"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:7
+msgid ""
+"For now, you use the shortcode [live_event_list CALENDAR_ID]. The "
+"<strong>CALENDAR_ID</strong> can be seen from Events > Calendars."
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:8
+msgid ""
+"When you create a new event list (not block or calendar) you will get that "
+"shortcode built for you."
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:9
+msgid "Updating the event"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:10
+msgid ""
+"You can update the event from the edit screen of each event. You can start, "
+"stop the event or even create halves, timeouts etc"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:11
+msgid ""
+"To update the results, you just have to fill the main result and hit Save"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:12
+msgid "Configuring Live Details"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:13
+msgid ""
+"Under SportsPress > Configuration, you will see Live Parts. There are two "
+"types of live parts:"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:15
+msgid ""
+"Timed Parts. Those are parts such as 1st & 2nd Half in Soccer with "
+"45minutes. You can only start and stop them once."
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:16
+msgid ""
+"Non-times Parts. Those are parts such as timeouts in Basketball where the "
+"minutes are paused. Or even penalties at the end of a soccer match. You can "
+"start and stop them as many times as you want"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:19
+msgid ""
+"Clicking on the buttons below will delete all previous live parts that were "
+"configured. This should be used only for the first time setup."
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:20
+msgid "Configure for Soccer"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:21
+msgid "Configure for Basketball FIBA"
+msgstr ""
+
+#: includes/admin/views/tabs/general.php:23
+msgid "Video Tutorials will be available as soon."
+msgstr ""
+
+#: includes/class-lsfs-installer.php:84
+msgid "Sorry, there seems to be no configuration setup for the provided sport"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:92
+msgid "1st Half"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:98
+msgid "Half Time"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:103
+msgid "2nd Half"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:114
+msgid "1st Extra Half"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:125
+msgid "2nd Extra Half"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:136 includes/class-lsfs-installer.php:142
+#: timer.php:370
+msgid "Penalties"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:149
+msgid "1st Quarter"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:155
+msgid "End of 1st Q"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:160
+msgid "2nd Quarter"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:166
+msgid "End of 2nd Q"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:171
+msgid "3rd Quarter"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:177
+msgid "End of 3rd Q"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:182
+msgid "4th Quarter"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:188
+msgid "End of 4th Q"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:193
+msgid "1st Overtime"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:199
+msgid "End of OT"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:204
+msgid "2nd Overtime"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:210
+msgid "End of 2OT"
+msgstr ""
+
+#: includes/class-lsfs-installer.php:215 includes/class-lsfs-installer.php:221
+msgid "Timeout"
+msgstr ""
+
+#: includes/class-lsfs-live-ajax.php:44 includes/class-lsfs-live-ajax.php:49
+#: includes/class-lsfs-live-ajax.php:123 includes/class-lsfs-live-ajax.php:128
+#: includes/class-lsfs-live-ajax.php:299 includes/class-lsfs-live-ajax.php:304
+#: premium/class-lsfs-pro-ajax.php:37 premium/class-lsfs-pro-ajax.php:42
+#: premium/class-lsfs-pro-ajax.php:130 premium/class-lsfs-pro-ajax.php:135
+msgid "No Hacking please"
+msgstr ""
+
+#: includes/class-lsfs-live-ajax.php:56
+msgid "No Table provided."
+msgstr ""
+
+#: includes/class-lsfs-live-ajax.php:152
+msgid "There is no list given."
+msgstr ""
+
+#: includes/class-lsfs-live-ajax.php:311
+msgid "No Event"
+msgstr ""
+
+#: includes/class-lsfs-live-ajax.php:485
+msgid "Results Saved"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:211
+msgid "Start Live"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:218
+msgid "End Live"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:248
+msgid "Save Results"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:263
+msgid "Add a Live Part"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:266
+msgid "Live Part Title"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:267
+msgid "Enter a Title for the Live Part"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:274
+msgid "Save Live Part"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:297
+#: includes/class-lsfs-live-event.php:380
+#, php-format
+msgid "Start %s"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:310
+msgid ""
+"This is the first live part. It will start immediatelly once Live Starts"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:315
+#: includes/class-lsfs-live-event.php:381
+#, php-format
+msgid "End %s"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:334
+#: includes/class-lsfs-live-event.php:408
+msgid "Update Stoppage Minutes"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:348
+msgid "Ending Pause Periods will continue the event minutes"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:392
+msgid "Minutes Correction"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:393
+msgid "Type the current minutes of the match to correct the live details"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:394
+msgid ""
+"This will not take into account the previously submitted live parts and "
+"stoppage minutes"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:396
+msgid "Correct current minutes"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:401
+#: includes/class-lsfs-live-event.php:415
+msgid "Start"
+msgstr ""
+
+#: includes/class-lsfs-live-event.php:402
+#: includes/class-lsfs-live-event.php:416
+msgid "End"
+msgstr ""
+
+#: includes/class-lsfs-post-types.php:39
+msgid "Live Results"
+msgstr ""
+
+#: includes/class-lsfs-post-types.php:58
+msgid "Live Part"
+msgstr ""
+
+#: includes/class-lsfs-post-types.php:59
+msgid "Add New Live Part"
+msgstr ""
+
+#: includes/class-lsfs-post-types.php:60
+msgid "Edit Live Part"
+msgstr ""
+
+#: includes/class-lsfs-post-types.php:61
+#: premium/class-lsfs-pro-post-types.php:44
+msgid "New"
+msgstr ""
+
+#: includes/class-lsfs-post-types.php:62
+#: premium/class-lsfs-pro-post-types.php:45
+msgid "View"
+msgstr ""
+
+#: includes/class-lsfs-post-types.php:63
+#: premium/class-lsfs-pro-post-types.php:46
+msgid "Search"
+msgstr ""
+
+#: includes/class-lsfs-post-types.php:64 includes/class-lsfs-post-types.php:65
+#: premium/class-lsfs-pro-post-types.php:47
+#: premium/class-lsfs-pro-post-types.php:48
+msgid "No results found."
+msgstr ""
+
+#: includes/class-lsfs-post-types.php:105
+msgid "Details"
+msgstr ""
+
+#: includes/class-lsfs-post-types.php:114
+msgid "Live Details"
+msgstr ""
+
+#: includes/class-lsfs-post-types.php:122
+msgid "Live Scorers"
+msgstr ""
+
+#: includes/integrations/class-lsfs-notifications.php:23
+#: premium/integrations/class-lsfs-notifications.php:30
+msgid "Live Notifications"
+msgstr ""
+
+#: includes/integrations/class-lsfs-notifications.php:24
+#: premium/integrations/class-lsfs-notifications.php:31
+msgid ""
+"Notifications will appear across your site when an event result has changed."
+msgstr ""
+
+#: includes/integrations/class-lsfs-notifications.php:38
+#: includes/integrations/class-lsfs-scorespro-free.php:48
+#: includes/integrations/views/html-integration-scorespro-free.php:26
+msgid "Sport"
+msgstr ""
+
+#: includes/integrations/class-lsfs-notifications.php:40
+#: includes/integrations/class-lsfs-scorespro-free.php:50
+msgid "Select the default sport for Scorespro Live Scores"
+msgstr ""
+
+#: includes/integrations/class-lsfs-notifications.php:42
+#: includes/integrations/class-lsfs-scorespro-free.php:52
+#: includes/integrations/views/html-integration-scorespro-free.php:36
+msgid "Soccer"
+msgstr ""
+
+#: includes/integrations/class-lsfs-scorespro-free.php:30
+msgid "Scorespro Free"
+msgstr ""
+
+#: includes/integrations/class-lsfs-scorespro-free.php:31
+msgid ""
+"Free Scorespro live scores for SportsPress. Retrieve the Live Scores from "
+"Scorespro from their free service and show them on your site styled by "
+"SportsPress."
+msgstr ""
+
+#: includes/integrations/class-lsfs-scorespro-free.php:53
+#: includes/integrations/views/html-integration-scorespro-free.php:40
+#: premium/admin/class-lsfs-pro-admin.php:233
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:112
+#: templates/live-commentary__premium_only.php:163
+msgid "Basketball"
+msgstr ""
+
+#: includes/integrations/class-lsfs-scorespro-free.php:54
+#: includes/integrations/views/html-integration-scorespro-free.php:44
+msgid "Hockey"
+msgstr ""
+
+#: includes/integrations/class-lsfs-scorespro-free.php:55
+#: includes/integrations/views/html-integration-scorespro-free.php:48
+msgid "Volleyball"
+msgstr ""
+
+#: includes/integrations/views/html-integration-scorespro-free-events.php:15
+msgid "No Live Events for now."
+msgstr ""
+
+#: includes/integrations/views/html-integration-scorespro-free-events.php:27
+#: includes/widgets/class-lsfs-widget-event-list.php:134
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:107
+#: templates/live-commentary__premium_only.php:158
+#: templates/live-event-list.php:116 templates/live-event-list.php:130
+#: templates/live-event-list.php:136
+msgid "Time"
+msgstr ""
+
+#: includes/integrations/views/html-integration-scorespro-free-events.php:28
+#: templates/live-event-list.php:102
+msgid "Home"
+msgstr ""
+
+#: includes/integrations/views/html-integration-scorespro-free-events.php:29
+#: includes/widgets/class-lsfs-widget-event-list.php:138
+#: templates/live-event-list.php:108 templates/live-event-list.php:132
+#: templates/live-event-list.php:140
+msgid "Results"
+msgstr ""
+
+#: includes/integrations/views/html-integration-scorespro-free-events.php:30
+#: templates/live-event-list.php:112
+msgid "Away"
+msgstr ""
+
+#: includes/integrations/views/html-integration-scorespro-free-events.php:71
+#: templates/live-event-blocks.php:176 templates/live-event-list.php:427
+msgid "View all events"
+msgstr ""
+
+#: includes/integrations/views/html-integration-scorespro-free.php:10
+msgid ""
+"This integration is subject to change since we don't control the output by "
+"scorespro.com"
+msgstr ""
+
+#: includes/integrations/views/html-integration-scorespro-free.php:15
+msgid ""
+"If you see that the output does not work, feel free to contact me through my "
+"contact page on: "
+msgstr ""
+
+#: includes/integrations/views/html-integration-scorespro-free.php:19
+#: includes/integrations/views/html-integration-scorespro-free.php:27
+msgid "Shortcode"
+msgstr ""
+
+#: includes/integrations/views/html-integration-scorespro-free.php:20
+msgid ""
+"Add this shortcode to a page where you want to show the live scores from "
+"scorespro.com"
+msgstr ""
+
+#: includes/integrations/views/html-integration-scorespro-free.php:22
+msgid ""
+"You can add a type to the shortcode for each Sport. If the type has not been "
+"defined, it will use the default sport"
+msgstr ""
+
+#: includes/integrations/views/html-integration-scorespro-free.php:32
+msgid "Default"
+msgstr ""
+
+#: includes/lsfs-live-functions.php:147
+msgid "Full Time"
+msgstr ""
+
+#: includes/lsfs-live-functions.php:324
+msgid "No minutes provided."
+msgstr ""
+
+#: includes/lsfs-live-functions.php:328
+msgid "No event provided."
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:17
+msgid "A list of live events."
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:93
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:96
+#, php-format
+msgid "Select %s:"
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:96
+msgid "Calendar"
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:100
+msgid "All"
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:108
+msgid "Add New"
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:116
+msgid "Show Calendar title"
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:122
+msgid "Columns:"
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:125
+#: templates/live-event-list.php:124
+msgid "Event"
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:129
+#: templates/live-event-list.php:106 templates/live-event-list.php:144
+msgid "Time/Results"
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:142
+#: templates/live-event-list.php:155
+msgid "Venue"
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:143
+#: templates/live-event-list.php:158
+msgid "Article"
+msgstr ""
+
+#: includes/widgets/class-lsfs-widget-event-list.php:144
+#: templates/live-event-blocks.php:139 templates/live-event-list.php:161
+msgid "Match Day"
+msgstr ""
+
+#: live-scores-for-sportspress.php:124
+msgid "Commentary"
+msgstr ""
+
+#: live-scores-for-sportspress.php:140
+msgid "Live Commentary"
+msgstr ""
+
+#: live-scores-for-sportspress.php:148
+msgid "Commentary Colors"
+msgstr ""
+
+#: live-scores-for-sportspress.php:156
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-commentary-performance.php:59
+msgid "Performance"
+msgstr ""
+
+#: live-scores-for-sportspress.php:168
+msgid "Commentary Refresh Rate"
+msgstr ""
+
+#: live-scores-for-sportspress.php:169
+msgid "Set how many seconds will pass until the comemntaries get updated."
+msgstr ""
+
+#: live-scores-for-sportspress.php:276 live-scores-for-sportspress.php:285
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin-ajax.php:40
+#: premium/admin/class-lsfs-pro-admin-ajax.php:113
+#: premium/class-lsfs-pro-ajax.php:54
+msgid "Please Enter Commentary Text"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin-ajax.php:63
+#: premium/class-lsfs-pro-ajax.php:86
+msgid "New Commentary could not be saved"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin-ajax.php:108
+#: premium/admin/class-lsfs-pro-admin-ajax.php:181
+#: premium/admin/class-lsfs-pro-admin-ajax.php:204
+msgid "No Commentary ID"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin-ajax.php:136
+msgid "Commentary could not be edited"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin-ajax.php:187
+msgid "Could not get the Commentary"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin-ajax.php:210
+msgid "Could not delete the Commentary"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin.php:231
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:105
+#: templates/live-commentary__premium_only.php:156
+msgid "Ball"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin.php:232
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:111
+#: templates/live-commentary__premium_only.php:162
+msgid "Baseball"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin.php:234
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:113
+#: templates/live-commentary__premium_only.php:164
+msgid "Cricketball"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin.php:235
+msgid "Golball"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin.php:236
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:109
+#: templates/live-commentary__premium_only.php:160
+msgid "Megaphone"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin.php:237
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:110
+#: templates/live-commentary__premium_only.php:161
+msgid "Whistle"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin.php:248
+msgid "Score Icon"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin.php:249
+msgid "Icon to use when adding the scorer"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin.php:271
+msgid "Add this Score to Commentary"
+msgstr ""
+
+#: premium/admin/class-lsfs-pro-admin.php:297
+#, php-format
+msgid "%s Scored"
+msgstr ""
+
+#: premium/admin/post-types/class-lsfs-admin-cpt-commentary-icon.php:43
+#: premium/class-lsfs-pro-post-types.php:39
+#: premium/class-lsfs-pro-post-types.php:41
+#: premium/class-lsfs-pro-post-types.php:49
+#: premium/views/html-admin-config-icons.php:27
+msgid "Icon"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-commentary-colors.php:21
+msgid "Background Color:"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-commentary-colors.php:22
+msgid "Text Color:"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-commentary-performance.php:54
+msgid ""
+"Connect the commentary with a Player Performance and this will be added to "
+"the box score as well."
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-commentary-performance.php:55
+msgid ""
+"This is used only if a Player is also selected when creating a Commentary."
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-commentary-performance.php:64
+msgid "Please, create Player Performances first"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-commentary-performance.php:68
+msgid "Select a Performance"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-commentary-performance.php:82
+msgid "Value"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-commentary-performance.php:86
+msgid "Define how much will it be added to the box score (or removed)"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:40
+#: templates/live-commentary__premium_only.php:91
+msgid "No Player"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:70
+#: templates/live-commentary__premium_only.php:121
+msgid "No Icon"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:106
+#: templates/live-commentary__premium_only.php:157
+msgid "Sub"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:108
+#: templates/live-commentary__premium_only.php:159
+msgid "Card"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:114
+#: templates/live-commentary__premium_only.php:165
+msgid "Golfball"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:124
+#: templates/live-commentary__premium_only.php:176
+msgid "Add Comment"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:126
+msgid "Edit Comment"
+msgstr ""
+
+#: premium/admin/post-types/meta-boxes/class-lsfs-premium-meta-box-event-commentary.php:128
+msgid "Cancel Edit"
+msgstr ""
+
+#: premium/class-lsfs-commentary-icons.php:121
+msgid "Image"
+msgstr ""
+
+#: premium/class-lsfs-commentary-icons.php:129
+#: premium/class-lsfs-pro-post-types.php:50
+msgid "Select Icon"
+msgstr ""
+
+#: premium/class-lsfs-commentary-icons.php:131
+msgid "Customize"
+msgstr ""
+
+#: premium/class-lsfs-pro-ajax.php:49 premium/class-lsfs-pro-ajax.php:142
+msgid "No Event ID Provided"
+msgstr ""
+
+#: premium/class-lsfs-pro-auto-start.php:24
+msgid "Auto Start:"
+msgstr ""
+
+#: premium/class-lsfs-pro-post-types.php:40
+msgid "Icons"
+msgstr ""
+
+#: premium/class-lsfs-pro-post-types.php:42
+msgid "Add Commentary Icon"
+msgstr ""
+
+#: premium/class-lsfs-pro-post-types.php:43
+msgid "Edit Icon"
+msgstr ""
+
+#: premium/class-lsfs-pro-post-types.php:51
+msgid "Remove icon"
+msgstr ""
+
+#: premium/class-lsfs-pro-post-types.php:52
+msgid "Add icon"
+msgstr ""
+
+#: premium/integrations/views/documentation/notifications.php:2
+msgid "This is the first version of Live Notifications"
+msgstr ""
+
+#: premium/integrations/views/documentation/notifications.php:3
+msgid "How Live Notifications work"
+msgstr ""
+
+#: premium/integrations/views/documentation/notifications.php:4
+msgid ""
+"Live Notifications will work only on pages that do not have a live widget or "
+"a live event list"
+msgstr ""
+
+#: premium/integrations/views/documentation/notifications.php:5
+msgid ""
+"This is done because we don't want to make too many requests for scores."
+msgstr ""
+
+#: premium/integrations/views/documentation/notifications.php:6
+msgid "A future version might be done differently."
+msgstr ""
+
+#: premium/lsfs-commentary-functions.php:38
+msgid "To add a Commentary, post_id is required."
+msgstr ""
+
+#: premium/views/html-admin-config-icons.php:20
+msgid "Commentary Icons"
+msgstr ""
+
+#: premium/views/html-admin-config-icons.php:21
+msgid "Define Icons which you want to use."
+msgstr ""
+
+#: premium/views/html-admin-config-icons.php:57
+msgid "No Commentary Icon Configured"
+msgstr ""
+
+#: templates/live-event-list.php:97
+msgid "Date"
+msgstr ""
+
+#: templates/live-event-list.php:122
+msgid "Teams"
+msgstr ""
+
+#: templates/live-event-list.php:149
+msgid "Competition"
+msgstr ""
+
+#: templates/live-event-list.php:152
+msgid "Season"
+msgstr ""
+
+#: templates/live-event-list.php:396
+msgid "Recap"
+msgstr ""
+
+#: templates/live-event-list.php:398
+msgid "Preview"
+msgstr ""
+
+#: templates/live-league-table.php:80
+msgid "Pos"
+msgstr ""
+
+#: templates/live-league-table.php:180
+msgid "View full table"
+msgstr ""
+
+#: timer.php:262
+msgid "Half-time"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.livesportspress.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Enhance SportsPress with Live Scores, Live Minutes, Commentary and other"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Igor Benić"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.ibenic.com"
+msgstr ""

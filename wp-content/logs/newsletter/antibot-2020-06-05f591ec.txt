@@ -1,0 +1,2 @@
+14-06-2020 15:18:29 - FATAL - v: 6.6.9 - m: 25,1 MB, u: 0 - jjfjbbzx5rjz@10minut.xyz - 95.160.179.133 - Antiflood triggered
+14-06-2020 15:18:35 - FATAL - v: 6.6.9 - m: 25,1 MB, u: 0 - jjfjbbzx5rjz@10minut.xyz - 95.160.179.133 - Antiflood triggered
